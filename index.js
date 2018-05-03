@@ -1,1 +1,3 @@
-console.log("Hello")
+$(Document).ready(function(){
+    alert("Hello")
+})
